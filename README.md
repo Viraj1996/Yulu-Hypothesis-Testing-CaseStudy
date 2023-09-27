@@ -11,7 +11,7 @@ Below are the questions that are answered from the data:
 3) To check if Weather is dependent on the season.
 
 Concepts Used to answer above questions:
-Bi-Variate Analysis
-2-sample t-test: testing for difference across populations
-ANNOVA
-Chi-square
+- Bi-Variate Analysis
+- 2-sample t-test: testing for difference across populations
+- ANNOVA
+- Chi-square
